@@ -1,0 +1,24 @@
+{
+    "name" : "Hitsomeshots Repository",
+    "identifier" : "com.hitsomeshots.repo",
+    "subtitle" : "The most exclusive repository!",
+    "iconURL" : "https://i.imgur.com/Gq3Fhdm.jpeg",
+    "website" : "https://github.com/hitsomeshots/Hitsomeshots-Repository",
+    "apps" : [
+      {
+        "name": "HD Flix",
+        "bundleIdentifier": "com.heldiver.box",
+        "developerName": "Hitsomeshots",
+        "version": "3.0",
+        "versionDate": "2024-05-11",
+        "downloadURL": "https://spyderrock.com/66KP9127-HDFlix3.ipa",
+        "localizedDescription": "Movie and tv show streaming app.\n+ Adblocker",
+        "iconURL": "https://i.imgur.com/8FHVumN.jpeg",
+        "tintColor": "ff0100",
+        "size": 47435146,
+        "screenshotURLs": [
+            "https://i.imgur.com/cmgU50C.png"
+        ]
+      }
+    ]
+}
