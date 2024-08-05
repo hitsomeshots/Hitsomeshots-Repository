@@ -7,32 +7,17 @@
     "apps" : [
       {
         "name": "HD Flix",
-        "bundleIdentifier": "com.heldiver.box",
+        "bundleIdentifier": "com.prumre.video",
         "developerName": "Hitsomeshots",
-        "version": "3.0",
-        "versionDate": "2024-05-11",
-        "downloadURL": "https://spyderrock.com/66KP9127-HDFlix3.ipa",
+        "version": "4.0",
+        "versionDate": "2024-07-30",
+        "downloadURL": "https://spyderrock.com/pCJL4853-HDFlix4.ipa",
         "localizedDescription": "Movie and tv show streaming app.\n+ Adblocker",
         "iconURL": "https://i.imgur.com/8FHVumN.jpeg",
         "tintColor": "ff0100",
-        "size": 47435146,
+        "size": 32253952,
         "screenshotURLs": [
             "https://i.imgur.com/cmgU50C.png"
-        ]
-      },
-      {
-        "name": "Text Me - Phone Call + Texting",
-        "bundleIdentifier": "com.textmeinc.textme2",
-        "developerName": "Hitsomeshots",
-        "version": "3.37.7",
-        "versionDate": "2024-05-11",
-        "downloadURL": "https://spyderrock.com/ieeT5825-TextMe3.ipa",
-        "localizedDescription": "Your private line & 2nd phone number. Unlimited texting & calling without cost to any number in the US & Canada!\n+ Adblocker",
-        "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/72/ce/6b/72ce6bdf-9b8b-b7ec-50de-865cbce9fd64/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/350x350bb.jpg",
-        "tintColor": "02cbf2",
-        "size": 54572154,
-        "screenshotURLs": [
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/22/57/51/225751a8-9951-800b-8d5f-3aba8fa9aec9/2dcc7504-7748-40cb-a952-c013c8e61d20__TM_iphoneXS_01.jpg/230x0w.jpg"
         ]
       }
     ]
